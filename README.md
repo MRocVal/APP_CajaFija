@@ -113,4 +113,6 @@ Gráficos que analizan los 10 principales:
 
 ---
 
-¿Te gustaría guardar este archivo directamente como `README.md`? 😊
+¿Te gustaría enviarnos alguna sugerencia? 😊
+
+No dudes con contactarnos en el siguiente correo: mrocval@etsinf.upv.es
