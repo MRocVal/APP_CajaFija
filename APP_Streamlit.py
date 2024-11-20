@@ -8,8 +8,6 @@ Created on Tue Nov 19 21:50:30 2024
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.express as px
 
 # Cargar datos
